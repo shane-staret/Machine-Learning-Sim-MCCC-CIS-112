@@ -1,6 +1,6 @@
 # Machine Learning Visualization
-###### Official CIS112 (Data Struc. & Algorithm) Final Project by [Shane Staret](https://github.com/SStaret43).
-###### This is a link to [my YouTube channel](https://www.youtube.com/channel/UCmQA16swmtPa29pRo9YtRTA?view_as=subscriber), featuring videos of this project on it. Here is a [video](https://www.youtube.com/watch?v=XPnZ38FEr74) that shows the program in action.
+###### Official CIS112 (Data Struc. & Algorithm) Final Project by [Shane Staret](https://github.com/shane-staret).
+###### This is a link to [my YouTube channel](https://www.youtube.com/@shane-staret), featuring videos of this project on it. Here is a [video]() that shows the program in action.
 ________________________________________________________________________________________________________________________________
 
 ## **Explanation & Design Process**
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ## **Thoughts & Future Plans**
 
-#### This project was created with the intent to show how machine learning works. Admittedly, at the moment this is a pretty dull example. Instead of showcasing just machine learning and how it works, I'd rather transform this into a "game" of sorts. Maybe change it up so that the computer learns how to play a game like checkers and then a human could actually play against it to see just how much it has learned. Overall, this project does a good job of showcasing machine learning, but it's a bit boring. So of course, I want to improve upon it. Here is a shortlist of what I will do in the future:
+#### This project was created with the intent to show how machine learning works. Admittedly, at the moment this is a pretty dull example. Instead of showcasing just machine learning and how it works, I'd rather transform this into a "game" of sorts. Maybe change it up so that the computer learns how to play a game like checkers and then a human could actually play against it to see just how much it has learned. Overall, this project does a good job of showcasing machine learning, but it's a bit boring. So of course, I want to improve upon it. Here is a shortlist of what I could do in the future:
    * ##### add a delay when the computer is "playing" so that you can visually see the dots being placed
    * ##### add more grid spaces
    * ##### instead of a simulation that displays a computer "learning" how to place dots on a board, teach it how to play checkers
@@ -23,7 +23,9 @@ ________________________________________________________________________________
    * ##### *possibly* move UI to the web and allow other people to play against the computer that "learned"
 ________________________________________________________________________________________________________________________________
 
+<!--
 ## **GIFs**
 
 #### Showing a playthrough of multiple games until the computer is successful. I am constantly clicking the "Play Again" button and that the computer changes what it does each play based on what moves it learned were successful in the previous games. The GIF's quality is awful, but if you look closely, you can see that the pixels right below the grid keep changing because the moves are different each game. At first, they are completely random. But towards the end, the computer begins to figure out the right moves and the moves become more similar later on in the GIF.
 ![GIF of multiple playthroughs until a success](https://media.giphy.com/media/Yll4E2zaj1f5IZnNz9/giphy.gif)
+-->
