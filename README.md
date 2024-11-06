@@ -1,6 +1,6 @@
 # Machine Learning Visualization
 ###### Official CIS112 (Data Struc. & Algorithm) Final Project by [Shane Staret](https://github.com/shane-staret).
-###### This is a link to [my YouTube channel](https://www.youtube.com/@shane-staret), featuring videos of this project on it. Here is a [video]() that shows the program in action.
+###### This is a link to [my YouTube channel](https://www.youtube.com/@shane-staret), featuring videos of this project on it. Here is a [video](https://www.youtube.com/watch?v=OBcQ6sjNFvQ) that shows the program in action.
 ________________________________________________________________________________________________________________________________
 
 ## **Explanation & Design Process**
